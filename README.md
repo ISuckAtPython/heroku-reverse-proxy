@@ -14,4 +14,8 @@ Based on [octoberswimmer/heroku-reverse-proxy](https://github.com/octoberswimmer
 originally forked from [api-proxy-3scale-heroku](https://github.com/Taytay/api-proxy-3scale-heroku).
 
 ## Contributing
-This was refactored from another repo
+### Clone the repo
+### Build the project
+### Run the project
+### Submit a pull request
+

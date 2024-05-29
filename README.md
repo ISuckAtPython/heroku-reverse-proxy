@@ -12,3 +12,6 @@ copy of the app, then configure the UPSTREAM_SERVER config variable.
 ## Credits
 Based on [octoberswimmer/heroku-reverse-proxy](https://github.com/octoberswimmer/heroku-reverse-proxy),
 originally forked from [api-proxy-3scale-heroku](https://github.com/Taytay/api-proxy-3scale-heroku).
+
+# Contributing
+This was refactored from another repo
